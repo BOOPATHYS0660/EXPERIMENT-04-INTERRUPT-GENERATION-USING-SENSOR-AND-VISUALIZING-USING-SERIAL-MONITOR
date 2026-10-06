@@ -268,7 +268,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 
-<img width="1302" height="1208" alt="Serial Terminal Monitor Interface" src="https://github.com/user-attachments/assets/9d8cad8c-490b-4b44-b112-e4c6c9b589c5" />
+<img width="600" height="600" alt="Serial Terminal Monitor Interface" src="https://github.com/user-attachments/assets/9d8cad8c-490b-4b44-b112-e4c6c9b589c5" />
 
 
  ## Circuit board :
